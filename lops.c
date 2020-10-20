@@ -6,4 +6,5 @@ void main(){
 		printf("%d.loops\n",i);
 	}
 printf("done with loops");
+printf("thnks");
 }
