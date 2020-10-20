@@ -7,5 +7,6 @@ void main(){
 		printf("\n");
 	}
 	printf("\nnew branch dev");
+	printf("the difference form master branch");
 	
 }
