@@ -4,5 +4,6 @@ void main(){
 	scanf("%d",&i);
 	for(j=0;j<i;j++){
 		printf("%d.hello world ",i);
+		printf("\n");
 	}
 }
